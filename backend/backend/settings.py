@@ -111,7 +111,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
 STATIC_URL = '/static_backend/'
-STATIC_ROOT = './app/static_backend/'
+STATIC_ROOT = '/static_backend/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
